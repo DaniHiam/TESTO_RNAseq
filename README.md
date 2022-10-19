@@ -11,7 +11,7 @@ Title / Aim: .
 
 Methodology:
 
-* Male C57BL/6J mice were divided into two groups: (1) treatment / RXFP3-antagonist 2 (n=6), and (2) control / vehicle (n=6) and
+* Females conducted 12 weeks resistance training (1) PRE (n=22), and (2) POST (n=19) 
 
 * At the end of the experiment, RNA was isolated from skeletal muscle both PRE and POST 12 weeks. 
 
