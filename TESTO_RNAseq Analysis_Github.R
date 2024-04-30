@@ -1,5 +1,5 @@
 # Import Read Counts
-setwd("C:/Users/dhiam/OneDrive - Deakin University/PostDoc_Deakin/Lab/RNAseq/TESTO STUDY")
+setwd("")
 
 #Packages
 library("tidyverse")
